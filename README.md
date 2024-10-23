@@ -8,7 +8,7 @@ How to build a portfolio?
 The homepage
 A logo --- navbar 
 Tom Marini - photo - Who am I in one sentence 
-3D model that we can turn or turns automatically (Blender, somthing cute)
+3D model that we can turn or turns automatically (Blender)
 What is my goal?: Software engineer
 What is my story ? ==> could be a page where I tell my story.
 
@@ -29,7 +29,6 @@ Non IT jobs (maybe not relevant, or maybe in antoher page)
 
 - Tutoring
 
-- Soon MacDo?
 
 
 Points to think about:
